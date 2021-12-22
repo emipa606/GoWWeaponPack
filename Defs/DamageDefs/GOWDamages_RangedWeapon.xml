@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef ParentName="CutBase">
+    <defName>Sawblade</defName>
+    <label>sawblade</label>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been ripped apart.</deathMessage>
+    <hediff>Cut</hediff>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Bullet</impactSoundType>
+    <armorCategory>Sharp</armorCategory>
+  </DamageDef>
+</Defs>
