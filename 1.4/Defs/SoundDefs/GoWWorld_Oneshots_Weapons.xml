@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ===================== Gnasher Sound ========================= -->
+  <SoundDef>
+    <defName>ShotGnasher</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Gnasher</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>50.70588</min>
+          <max>50.70588</max>
+        </volumeRange>
+        <distRange>
+          <min>39.11765</min>
+          <max>70</max>
+        </distRange>
+      </li>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Shotgun/Rack</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>10.58823</min>
+          <max>10.58823</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9311765</min>
+          <max>1.137647</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- ===================== Lancer Sound ========================= -->
+  <SoundDef>
+    <defName>ShotLancerRifle</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Lancer</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotBoltok</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Boltok</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotBoomshot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Boomshot</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>55.2941</min>
+          <max>55.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotSnubPistol</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Snub</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>50.76471</min>
+          <max>50.76471</max>
+        </volumeRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotHammerburstMKI</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/HammerburstMKI</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>35.2941</min>
+          <max>35.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>2</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotHammerburstMKII</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/HammerburstMKII</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>35.2941</min>
+          <max>35.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1.5</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotRetroLancer</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/RetroLancer</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1.2</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotLongshot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Longshot</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1.291765</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotDropshot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Dropshot</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1.291765</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotBreechshot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Breechshot</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>95.2941</min>
+          <max>95.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1.291765</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotBuzzkill</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Buzzkill</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1.291765</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotTrishot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Trishot</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotEnforcer</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/Enforcer</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>45.2941</min>
+          <max>45.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

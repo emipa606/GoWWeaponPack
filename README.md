@@ -3,7 +3,7 @@
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of AHumanHats mod
-https://steamcommunity.com/sharedfiles/filedetails/?id=
+https://ludeon.com/forums/index.php?topic=40504.msg403139
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -53,5 +53,6 @@ This mod adds 8 weapons from the Gears franchise! All of the weapons come with 2
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
