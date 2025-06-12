@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sawblade -->
+  <Sawblade.label>sawblade</Sawblade.label>
+  <!-- EN: {0} has been ripped apart. -->
+  <Sawblade.deathMessage>{0} has been ripped apart.</Sawblade.deathMessage>
+</LanguageData>
